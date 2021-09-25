@@ -1,0 +1,4 @@
+youtube-dl
+telepotpro
+youtube-search-python
+python-dotenv
