@@ -5,7 +5,7 @@
 
 Hello Everyone This is Youtube Song Downlaoding Bot
 
-You Can Deploy It Heroku And Make oWN bOT
+You Can Deploy It Heroku And Make Own Bot
 
 Enjoy🙂
 
